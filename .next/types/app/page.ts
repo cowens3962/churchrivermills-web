@@ -1,4 +1,4 @@
-// File: /Users/owenscorey/Documents/Pixel Summit Clients/Church at River Mills/churchrivermills-web/src/app/page.js
+// File: /Users/owenscorey/Documents/Pixel Summit Clients/Church at River Mills/Repos/GitHub/churchrivermills-web/src/app/page.js
 import * as entry from '../../../src/app/page.js'
 import type { ResolvingMetadata } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
