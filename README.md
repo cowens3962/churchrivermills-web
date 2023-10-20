@@ -1,8 +1,15 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+# Environment Requirements
+Node Version: 20.7.0 or higher
 ## Getting Started
 
-First, run the development server:
+1. Once you pull this repository to your local environment, first install next.js using the following command:
+```
+npm install next@latest react@latest react-dom@latest
+```
+
+2. Run the development server:
 
 ```bash
 npm run dev
